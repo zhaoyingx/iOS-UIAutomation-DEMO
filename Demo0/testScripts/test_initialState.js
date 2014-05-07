@@ -55,3 +55,32 @@ test("test adding the existing item",function(){
 	assertEquals(newTableCellLength,oldTableCellLength,"items does not change");
 	alert.defaultButton().tap();
 })
+
+test("input special characters",function(){
+	window.navigationBar().buttons()["Add"].tap();
+	var alert = app.alert();
+	app.keyboard().typeString("()$%&");
+	var createButton = alert.buttons()["Create"].isEnabled();
+	assertEquals(0,createButton,"shouldn't be saved when input special characters");
+	alert.buttons()["Cancel"].tap();
+})
+
+test("only input space",function(){
+	window.navigationBar().buttons()["Add"].tap();
+	var alert = app.alert();
+	app.keyboard().typeString("    ");
+	var createButton = alert.buttons()["Create"].isEnabled();
+	assertEquals(0,createButton,"should't be saved when only input space");
+	alert.buttons()["Cancel"].tap();
+})
+
+test("input begin with space",function(){
+	window.navigationBar().buttons()["Add"].tap();
+	var alert = app.alert();
+	app.keyboard().typeString(" testtest");
+	alert.buttons()["Create"].tap();
+	window.navigationBar().buttons()["Documents"].tap();
+	var length = window.tableViews()[0].cells().length;
+	var newCellName = window.tableViews()[0].cells()[length-1].name();
+	assertEquals("testtest",newCellName,"space shouldn't display");
+})
