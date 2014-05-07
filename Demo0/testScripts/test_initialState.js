@@ -1,4 +1,4 @@
-//add testing
+//add operation testing
 
 var target = UIATarget.localTarget();
 var app = target.frontMostApp();
