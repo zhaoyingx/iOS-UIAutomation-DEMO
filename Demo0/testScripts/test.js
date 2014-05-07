@@ -7,3 +7,4 @@ var log = function(str)
 };
 
 #import "test_initialState.js"
+#import "test_delete.js"
