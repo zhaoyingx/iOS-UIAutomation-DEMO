@@ -8,3 +8,4 @@ var log = function(str)
 
 #import "test_initialState.js"
 #import "test_delete.js"
+#import "test_editItem.js"

@@ -46,3 +46,15 @@ test("test edit notes",function(){
 	assertEquals(notes,valueOfNotes,"add notes successfully");
 	window.navigationBar().buttons()["Documents"].tap();
 })
+
+test("add photo",function(){
+	window.tableViews()[0].cells()[0].tap();
+	window.navigationBar().buttons()["Edit"].tap();
+	window.tableViews()[0].cells()[1].tap();
+	window.tableViews()[0].cells()[0].tap();
+	window.tableViews()[0].cells()[0].images()[0].tap();
+	window.navigationBar().buttons()["Done"].tap();
+
+	assertNotNull(window.tableViews()[0].cells()[1],"photo add successfully");
+	window.navigationBar().buttons()["Documents"].tap();
+})
