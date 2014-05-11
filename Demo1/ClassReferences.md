@@ -14,7 +14,7 @@
 
 
 
-####[Sample code address](https://developer.apple.com/library/ios/samplecode/TableMultiSelect/Introduction/Intro.html)
+####sample code [TableMultiSelect](https://developer.apple.com/library/ios/samplecode/TableMultiSelect/Introduction/Intro.html)
 
 
 

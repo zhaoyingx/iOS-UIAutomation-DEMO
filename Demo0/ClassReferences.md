@@ -20,7 +20,10 @@
 
 - [UIATextField](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Reference/UIATextFieldClassReference/UIATextField/UIATextField.html#//apple_ref/doc/uid/TP40009925)
 
-####[Sample code address](https://developer.apple.com/library/IOS/samplecode/sc2281/Introduction/Intro.html#//apple_ref/doc/uid/DTS40014139)
+- [UIASwitch](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Reference/UIASwitchClassReference/UIASwitch/UIASwitch.html#//apple_ref/doc/uid/TP40009919)
+
+
+####sample code [PackagedDocument_iOS](https://developer.apple.com/library/IOS/samplecode/sc2281/Introduction/Intro.html#//apple_ref/doc/uid/DTS40014139)
 
 
 
