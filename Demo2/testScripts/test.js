@@ -7,3 +7,4 @@ var log = function(str)
 };
 
 #import "test_search.js"
+#import "test_commonFunction.js"
