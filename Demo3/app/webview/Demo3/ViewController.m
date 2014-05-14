@@ -33,6 +33,7 @@
     UITextField *textField = [[UITextField alloc] initWithFrame:CGRectMake(40, 40, 180, 37)];
     textField.placeholder = @"please input URL";
     textField.tag = 1;
+    textField.clearButtonMode = UITextFieldViewModeAlways;
     [self.view addSubview:textField];
     
     UIButton *button = [UIButton buttonWithType:UIButtonTypeRoundedRect];
