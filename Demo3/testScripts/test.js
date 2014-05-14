@@ -5,3 +5,5 @@ var log = function(str)
 {
     UIALogger.logMessage(str);
 };
+
+#import "test_openWebView.js"
