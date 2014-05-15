@@ -7,3 +7,4 @@ var log = function(str)
 };
 
 #import "test_openWebView.js"
+#import "test_webview.js"
