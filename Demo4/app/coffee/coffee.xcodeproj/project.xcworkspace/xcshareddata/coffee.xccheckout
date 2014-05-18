@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>59AD2815-DFCC-4D66-92C6-751B93D4421B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>coffee</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFDED466-0B2E-4FCD-85E0-583EDCBC1608</key>
+		<string>https://github.com/liontree/iOS-UIAutomation-DEMO.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Demo4/app/coffee/coffee.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFDED466-0B2E-4FCD-85E0-583EDCBC1608</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/liontree/iOS-UIAutomation-DEMO.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFDED466-0B2E-4FCD-85E0-583EDCBC1608</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFDED466-0B2E-4FCD-85E0-583EDCBC1608</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iOS-UIAutomation-DEMO</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -10,11 +10,16 @@
 
 @implementation Cell
 
+@synthesize imageView;
+
 - (id)initWithFrame:(CGRect)frame
 {
     self = [super initWithFrame:frame];
     if (self) {
         // Initialization code
+        imageView = [[UIImageView alloc] initWithFrame:CGRectMake(0, 0, 320, 300)];
+        
+        [self addSubview:imageView];
     }
     return self;
 }
