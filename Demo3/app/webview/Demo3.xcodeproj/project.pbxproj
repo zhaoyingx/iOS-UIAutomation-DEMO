@@ -473,6 +473,7 @@
 				1CEB53B21922714600C85A6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1CEB53B31922714600C85A6E /* Build configuration list for PBXNativeTarget "Demo3Tests" */ = {
 			isa = XCConfigurationList;
@@ -481,6 +482,7 @@
 				1CEB53B51922714600C85A6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

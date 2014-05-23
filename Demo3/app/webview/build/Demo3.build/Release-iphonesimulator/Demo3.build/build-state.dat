@@ -1,0 +1,614 @@
+TDemo3
+v6
+r1
+cCheck dependencies
+cProcessPCH /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.pch Demo3/Demo3-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cProcessPCH /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.pch Demo3/Demo3-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3 normal i386
+cLd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3 normal x86_64
+cCreateUniversalBinary /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3 normal i386\ x86_64
+cCopyStringsFile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/en.lproj/InfoPlist.strings Demo3/en.lproj/InfoPlist.strings
+cCompileXIB /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.xib
+cCompileXIB /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.xib
+cCompileAssetCatalog /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Images.xcassets
+cProcessInfoPlistFile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Info.plist /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Info.plist
+cGenerateDSYMFile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app.dSYM /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3
+cTouch /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c000000005348E7BE0000000000000198
+t1397286846
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c00000000531E6E2D00000000000003B4
+t1394503213
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531E6E34000000000000019E
+t1394503220
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000005348E7A00000000000446820
+t1397286816
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531E6E38000000000088D8C0
+t1394503224
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c00000000531E6E3D0000000001F1DE10
+t1394503229
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c00000000531E6E540000000000000ADC
+t1394503252
+s2780
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m
+c0000000053724FFB00000000000009C4
+t1400000507
+s2500
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Info.plist
+c000000005379D9520000000000000492
+t1400494418
+s1170
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Prefix.pch
+c0000000053724FFB0000000000000158
+t1400000507
+s344
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Images.xcassets
+c0000000053724FFB0000000000000088
+t1400000507
+s136
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m
+c000000005373271700000000000007CC
+t1400055575
+s1996
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.xib
+c0000000053724FFB0000000000000549
+t1400000507
+s1353
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m
+c0000000053724FFB00000000000003DA
+t1400000507
+s986
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.xib
+c0000000053724FFB0000000000000544
+t1400000507
+s1348
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/en.lproj/InfoPlist.strings
+c0000000053724FFB000000000000002D
+t1400000507
+s45
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m
+c0000000053724FFB000000000000014B
+t1400000507
+s331
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.o
+t1400740388
+s66712
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3
+t1400740388
+s24632
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3.LinkFileList
+c00000000537D9A23000000000000027E
+t1400740387
+s638
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.o
+t1400740388
+s59056
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.o
+t1400740388
+s45668
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.o
+t1400740388
+s3628
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.o
+t1400740388
+s73800
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3
+t1400740388
+s29572
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3.LinkFileList
+c00000000537D9A230000000000000286
+t1400740387
+s646
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.o
+t1400740388
+s61608
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.o
+t1400740388
+s47952
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.o
+t1400740388
+s4076
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/assetcatalog_dependencies.txt
+t1400740389
+s442
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/assetcatalog_generated_info.plist
+t1400740389
+s525
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app
+t1400740389
+s340
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app.dSYM
+t2
+s0
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3
+t1400740388
+s62340
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Info.plist
+t1400740389
+s974
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/PkgInfo
+t1400740389
+s8
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/ViewController.nib
+t1400740389
+s867
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/ZYWebView.nib
+t1400740388
+s867
+
+N/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/en.lproj/InfoPlist.strings
+t1400740388
+s42
+
+N/var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.pch
+t1400740388
+s117348
+
+N/var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.pch
+t1400740388
+s116592
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies4fce80a3d12db941^87a793a3d12db941^---0#1#1#--18"Check dependencies36"36307AC7-4E63-4A3D-9936-6190491C7A12-
+
+CCompileAssetCatalog /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Images.xcassets
+s422433188.914544
+e422433189.253031
+r1
+xCompileAssetCatalog
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Images.xcassets
+o/* com.apple.actool.compilation-results */
+o/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/LaunchImage-700-568h@2x.png
+o/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Assets.car
+o/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/assetcatalog_generated_info.plist
+o
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection97"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/Demo3.app [1mDemo3/Images.xcassets[0m97"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/Demo3.app [1mDemo3/Images.xcassets[0mf436eaa4d12db941^93c640a5d12db941^-470"/* com.apple.actool.compilation-results *//Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/LaunchImage-700-568h@2x.png/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Assets.car/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/assetcatalog_generated_info.plist-0#0#1#-19%DVTDocumentLocation2@102"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Images.xcassets/0000000000000000^1418"[1mCompileAssetCatalog[0m build/Release-iphonesimulator/Demo3.app [1mDemo3/Images.xcassets[0m    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/actool --output-format human-readable-text --notices --warnings --export-dependency-info /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/assetcatalog_dependencies.txt --output-partial-info-plist /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/assetcatalog_generated_info.plist --app-icon AppIcon --launch-image LaunchImage --platform iphonesimulator --minimum-deployment-target 7.1 --target-device iphone --compress-pngs --compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Images.xcassets36"6EACAF74-82FD-4880-B183-7EA57377D225-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433188.621532
+e422433188.753551
+r1
+xCompileC
+xbuild/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.o
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.h
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m200"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.o [1mDemo3/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerae459fa4d12db941^e5edc0a4d12db941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m0000000000000000^4081"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.o [1mDemo3/AppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/i386 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -include /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch -MMD -MT dependencies -MF /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.d --serialize-diagnostics /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.dia -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.o36"B5EFD2A5-E585-4E54-AAB7-1B5819C53D28-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433188.621341
+e422433188.762666
+r1
+xCompileC
+xbuild/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.o
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.h
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m206"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.o [1mDemo3/ViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerbb2b9fa4d12db941^6347c3a4d12db941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m0000000000000000^4099"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.o [1mDemo3/ViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/i386 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -include /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch -MMD -MT dependencies -MF /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.d --serialize-diagnostics /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.dia -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.o36"E3D6EC83-CDCD-4901-8C7F-F60EFDCDA5B9-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433188.621700
+e422433188.740639
+r1
+xCompileC
+xbuild/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.o
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.h
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m196"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.o [1mDemo3/ZYWebView.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2c489fa4d12db941^b29bbda4d12db941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m0000000000000000^4069"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.o [1mDemo3/ZYWebView.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/i386 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -include /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch -MMD -MT dependencies -MF /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.d --serialize-diagnostics /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.dia -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.o36"3B741483-32EC-488D-BE85-E88797350DA8-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433188.623138
+e422433188.674136
+r1
+xCompileC
+xbuild/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.o
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m186"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.o [1mDemo3/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2fa89fa4d12db941^3a95aca4d12db941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m0000000000000000^4039"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.o [1mDemo3/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/i386 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -include /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch -MMD -MT dependencies -MF /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.dia -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.o36"07B113E5-2494-4C5A-916D-BA86C4DC91AC-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433188.741113
+e422433188.849526
+r1
+xCompileC
+xbuild/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.o
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.h
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection100"Compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m204"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.o [1mDemo3/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler41d8bda4d12db941^dd7ad9a4d12db941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m0000000000000000^4095"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.o [1mDemo3/AppDelegate.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/x86_64 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -include /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch -MMD -MT dependencies -MF /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.d --serialize-diagnostics /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.dia -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.m -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.o36"61AA08A6-0F64-4335-8520-91707214D535-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433188.675011
+e422433188.796009
+r1
+xCompileC
+xbuild/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.o
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.h
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m210"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.o [1mDemo3/ViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerd5edaca4d12db941^88d9cba4d12db941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m0000000000000000^4113"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.o [1mDemo3/ViewController.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/x86_64 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -include /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch -MMD -MT dependencies -MF /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.d --serialize-diagnostics /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.dia -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.m -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.o36"6169B333-DA3F-4178-9C04-658404CF45D6-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433188.754181
+e422433188.849392
+r1
+xCompileC
+xbuild/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.o
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.h
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m200"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.o [1mDemo3/ZYWebView.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilerdb31c1a4d12db941^0c74d9a4d12db941^---0#0#1#-19%DVTDocumentLocation2@97"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m0000000000000000^4083"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.o [1mDemo3/ZYWebView.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/x86_64 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -include /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch -MMD -MT dependencies -MF /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.d --serialize-diagnostics /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.dia -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.m -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.o36"61D9EF80-C5FA-4EC2-8134-403FA0CA1165-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileC build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433188.763249
+e422433188.810560
+r1
+xCompileC
+xbuild/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.o
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/AppDelegate.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection93"Compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m190"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.o [1mDemo3/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler7b83c3a4d12db941^2429d1a4d12db941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m0000000000000000^4053"[1mCompileC[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.o [1mDemo3/main.m[0m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/x86_64 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -include /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch -MMD -MT dependencies -MF /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.d --serialize-diagnostics /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.dia -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/main.m -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.o36"D177D43F-CB6A-47F8-BAEB-578BD236B42D-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileXIB /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.xib
+s422433188.913777
+e422433189.217404
+r1
+xCompileXIB
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compiling /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.xib51"[1mCompileXIB[0m [1mDemo3/ViewController.xib[0m2f16eaa4d12db941^1ea837a5d12db941^---0#0#1#-19%DVTDocumentLocation2@104"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.xib0000000000000000^1010"[1mCompileXIB[0m [1mDemo3/ViewController.xib[0m    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/ViewController.nib /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ViewController.xib36"A14F4E07-604C-4738-B3BD-F24D875EF722-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCompileXIB /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.xib
+s422433188.914197
+e422433188.941064
+r1
+xCompileXIB
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.xib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection102"Compiling /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.xib46"[1mCompileXIB[0m [1mDemo3/ZYWebView.xib[0m2029eaa4d12db941^1502f1a4d12db941^---0#0#1#-19%DVTDocumentLocation2@99"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.xib0000000000000000^995"[1mCompileXIB[0m [1mDemo3/ZYWebView.xib[0m    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    export XCODE_DEVELOPER_USR_PATH=/Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/ibtool --errors --warnings --notices --minimum-deployment-target 7.1 --output-format human-readable-text --compile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/ZYWebView.nib /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/ZYWebView.xib36"A9EC393C-38C9-4FC6-86B2-0EB30AC0174C-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCopyStringsFile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/en.lproj/InfoPlist.strings Demo3/en.lproj/InfoPlist.strings
+s422433188.913691
+e422433188.922121
+r1
+xCopyStringsFile
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/en.lproj/InfoPlist.strings
+xDemo3/en.lproj/InfoPlist.strings
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection37"Copy Demo3/en.lproj/InfoPlist.strings123"[1mCopyStringsFile[0m build/Release-iphonesimulator/Demo3.app/en.lproj/InfoPlist.strings Demo3/en.lproj/InfoPlist.strings880deaa4d12db941^4018eca4d12db941^---0#0#1#-19%DVTDocumentLocation2@112"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/en.lproj/InfoPlist.strings0000000000000000^795"[1mCopyStringsFile[0m build/Release-iphonesimulator/Demo3.app/en.lproj/InfoPlist.strings Demo3/en.lproj/InfoPlist.strings    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/en.lproj -- Demo3/en.lproj/InfoPlist.strings36"AFB3E6C4-9E11-4071-9AB2-272A096F4BEF-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CCreateUniversalBinary /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3 normal i386\ x86_64
+s422433188.908227
+e422433188.913281
+r1
+xCreateUniversalBinary
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3
+xnormal
+xi386 x86_64
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection142"Create universal binary /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3103"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/Demo3.app/Demo3[0m normal i386\ x86_64309be8a4d12db941^cbbaeba4d12db941^---0#0#1#-19%DVTDocumentLocation2@125"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo30034c8b6ddffdf42^1066"[1mCreateUniversalBinary[0m [1mbuild/Release-iphonesimulator/Demo3.app/Demo3[0m normal i386\ x86_64    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo -create /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3 /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3 -output /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo336"9DC6CAD2-ABA4-4281-BB6B-408427FF9D71-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CGenerateDSYMFile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app.dSYM /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3
+s422433189.255600
+e422433189.276727
+r1
+xGenerateDSYMFile
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app.dSYM
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection126"Generate /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app.dSYM123"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/Demo3.app.dSYM[0m build/Release-iphonesimulator/Demo3.app/Demo3f98341a5d12db941^a0dc46a5d12db941^---0#0#1#-19%DVTDocumentLocation2@124"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app.dSYM0034c8b6ddffdf42^887"[1mGenerateDSYMFile[0m [1mbuild/Release-iphonesimulator/Demo3.app.dSYM[0m build/Release-iphonesimulator/Demo3.app/Demo3    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/dsymutil /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Demo3 -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app.dSYM36"A7A5569A-ACDB-403F-B416-6A74D76EDE60-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CLd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3 normal i386
+s422433188.850275
+e422433188.897771
+r1
+xLd
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3
+xnormal
+xi386
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ViewController.o
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/AppDelegate.o
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/ZYWebView.o
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection157"Link /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3102"[1mLd[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3 normal i38637c3d9a4d12db941^91d5e5a4d12db941^---0#0#1#--1745"[1mLd[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3 normal i386    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -filelist /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo3_dependency_info.dat -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/i386/Demo336"CF02B9F6-F670-4043-AFCC-FEBC55408CDC-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CLd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3 normal x86_64
+s422433188.850801
+e422433188.907235
+r1
+xLd
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3
+xnormal
+xx86_64
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/crt1.o
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ViewController.o
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/AppDelegate.o
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/ZYWebView.o
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/main.o
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libobjc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.ios.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreImage.framework/CoreImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Security.framework/Security
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/OpenGLES.framework/OpenGLES
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_override.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcache_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcommonCrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcorecrypto_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcompiler_rt_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libcopyfile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libdyld_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libmacho_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libnotify_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libremovefile_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libunwind_sim.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/libsystem_sim_asl.dylib
+d/usr/lib/libSystem.B.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/PrivateFrameworks/UIFoundation.framework/UIFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/system/host/libdyld.dylib
+d/usr/lib/system/libcache.dylib
+d/usr/lib/system/libcommonCrypto.dylib
+d/usr/lib/system/libcompiler_rt.dylib
+d/usr/lib/system/libcopyfile.dylib
+d/usr/lib/system/libcorecrypto.dylib
+d/usr/lib/system/libkeymgr.dylib
+d/usr/lib/system/liblaunch.dylib
+d/usr/lib/system/libmacho.dylib
+d/usr/lib/system/libquarantine.dylib
+d/usr/lib/system/libremovefile.dylib
+d/usr/lib/system/libsystem_asl.dylib
+d/usr/lib/system/libsystem_blocks.dylib
+d/usr/lib/system/libsystem_c.dylib
+d/usr/lib/system/libsystem_configuration.dylib
+d/usr/lib/system/libsystem_dnssd.dylib
+d/usr/lib/system/libsystem_info.dylib
+d/usr/lib/system/libsystem_kernel.dylib
+d/usr/lib/system/libsystem_m.dylib
+d/usr/lib/system/libsystem_malloc.dylib
+d/usr/lib/system/libsystem_notify.dylib
+d/usr/lib/system/libsystem_platform.dylib
+d/usr/lib/system/libsystem_pthread.dylib
+d/usr/lib/system/libsystem_sandbox.dylib
+d/usr/lib/system/libsystem_stats.dylib
+d/usr/lib/system/libunc.dylib
+d/usr/lib/system/libunwind.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection159"Link /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3106"[1mLd[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3 normal x86_64fbe7d9a4d12db941^be4ce8a4d12db941^---0#0#1#--1757"[1mLd[0m build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3 normal x86_64    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export IPHONEOS_DEPLOYMENT_TARGET=7.1    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch x86_64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator -filelist /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.1 -framework CoreGraphics -framework UIKit -framework Foundation -Xlinker -dependency_info -Xlinker /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo3_dependency_info.dat -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Objects-normal/x86_64/Demo336"5F91F83A-7E1D-4D28-9198-9B486A352FA1-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CProcessInfoPlistFile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Info.plist /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Info.plist
+s422433189.253588
+e422433189.255189
+r1
+xProcessInfoPlistFile
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Info.plist
+x/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection103"Process /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Info.plist110"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/Demo3.app/Info.plist [1mDemo3/Demo3-Info.plist[0mbc0241a5d12db941^45d543a5d12db941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Info.plist0000000000000000^1165"[1mProcessInfoPlistFile[0m build/Release-iphonesimulator/Demo3.app/Info.plist [1mDemo3/Demo3-Info.plist[0m    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    builtin-infoPlistUtility /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Info.plist -genpkginfo /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -additionalcontentfile /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/assetcatalog_generated_info.plist -o /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app/Info.plist36"070B0AFF-D09E-44A5-9172-5E5B3DE6B156-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CProcessPCH /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.pch Demo3/Demo3-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433187.580208
+e422433188.620609
+r1
+xProcessPCH
+x/var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.pch
+xDemo3/Demo3-Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Demo3/Demo3-Prefix.pch292"[1mProcessPCH[0m /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.pch Demo3/Demo3-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compilercea994a3d12db941^90dc9ea4d12db941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Prefix.pch0000000000000000^4057"[1mProcessPCH[0m /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.pch Demo3/Demo3-Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/x86_64 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator --serialize-diagnostics /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.d -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Prefix.pch -o /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-bwcxkveinjlnykecmbzhbdzcwqrr/Demo3-Prefix.pch.pch36"20F32634-556A-4D7B-99E2-93DD218F7DD8-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CProcessPCH /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.pch Demo3/Demo3-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s422433187.579708
+e422433188.620607
+r1
+xProcessPCH
+x/var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.pch
+xDemo3/Demo3-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Prefix.pch
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Demo3/Demo3-Prefix.pch290"[1mProcessPCH[0m /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.pch Demo3/Demo3-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler93ab94a3d12db941^86e29ea4d12db941^---0#0#1#-19%DVTDocumentLocation2@102"file:///Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Prefix.pch0000000000000000^4051"[1mProcessPCH[0m /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.pch Demo3/Demo3-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/opt/local/bin:/opt/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/Users/zhaoying/android-sdks/tools/:/Users/zhaoying/workspace/apache-maven-3.2.1/bin:/usr/local/sbin/"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=160 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.1 -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-generated-files.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-own-target-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-all-target-headers.hmap -iquote /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/Demo3-project-headers.hmap -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/include -I/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources/i386 -I/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Demo3.build/Release-iphonesimulator/Demo3.build/DerivedSources -F/Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator --serialize-diagnostics /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.d -c /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/Demo3/Demo3-Prefix.pch -o /var/folders/4q/45xt6phn4nz_q02_nchk_c300000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Demo3-Prefix-gepdlbejkkjwcgdqsfaswminltmy/Demo3-Prefix.pch.pch36"E000D5B6-604E-4293-917F-1988209516BA-
+b7BE0D9AF-886E-4C1F-869A-AF7353482971
+
+CTouch /Users/zhaoying/workspace/meRepo/iOS-UIAutomation-DEMO/Demo3/app/webview/build/Release-iphonesimulator/Demo3.app
+r0
+
