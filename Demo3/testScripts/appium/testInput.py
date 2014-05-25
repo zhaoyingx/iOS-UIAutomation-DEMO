@@ -53,13 +53,40 @@ class TestInput(unittest.TestCase):
         self.driver.set_value(textField,'http://www.douban.com')
         self.driver.find_element_by_ios_uiautomation('.buttons()[0]').click()
         sleep(5)
+        try:
+            webview = self.driver.find_elements_by_class_name('UIAWebView')
+            self.assertIsNotNone(webview)
+            logo = self.driver.find_elements_by_name('豆瓣')
+            self.assertIsNotNone(logo)
+        except:
+            pass
+        finally:
+            self.driver.find_element_by_ios_uiautomation('.navigationBar().buttons()[0]').click()
 
-        webview = self.driver.find_elements_by_class_name('UIAWebView')
-        self.assertIsNotNone(webview)
-
-        logo = self.driver.find_elements_by_name('豆瓣')
-        self.assertIsNotNone(logo)
-        self.driver.find_element_by_ios_uiautomation('.navigationBar().buttons()[0]').click()
+    def testLinkInPage(self):
+        print "test scroll...."
+        textField = self.driver.find_element_by_ios_uiautomation('.textFields()[0]')
+        textField.click()
+        self.driver.set_value(textField,'http://www.douban.com')
+        self.driver.find_element_by_ios_uiautomation('.buttons()[0]').click()
+        sleep(2)
+        self.assertIsNotNone(self.driver.find_elements_by_name('豆瓣'))
+        
+        try:
+            el1 = self.driver.find_elements_by_name('发现更多生活')
+            el2 = self.driver.find_elements_by_name('移动风格')
+            self.driver.scroll(el1,el2)
+            sleep(5)
+            self.assertIsNotNone(self.driver.find_elements_by_name('豆瓣电影'))
+            self.assertIsNotNone(self.driver.find_elements_by_name('豆瓣东西'))
+            self.assertIsNotNone(self.driver.find_elements_by_name('豆瓣读书'))
+            self.assertIsNotNone(self.driver.find_elements_by_name('豆瓣音乐'))
+            self.assertIsNotNone(self.driver.find_elements_by_name('豆瓣小组'))
+            self.assertIsNotNone(self.driver.find_elements_by_name('豆瓣同城'))
+        except:
+            pass
+        finally:
+            self.driver.find_element_by_ios_uiautomation('.navigationBar().buttons()[0]').click()
 
 
 if __name__ == '__main__':
